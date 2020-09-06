@@ -1,0 +1,12 @@
+ar\com\emanuelcenturion\curso\java\repositories\jdbc\CursoRepository.class
+ar\com\emanuelcenturion\curso\java\utils\html\HtmlTable.class
+ar\com\emanuelcenturion\curso\java\test\TestRepositories.class
+ar\com\emanuelcenturion\curso\java\entities\Curso.class
+ar\com\emanuelcenturion\curso\java\repositories\interfaces\I_AlumnoRepository.class
+ar\com\emanuelcenturion\curso\java\connector\Connector.class
+ar\com\emanuelcenturion\curso\java\entities\Alumno.class
+ar\com\emanuelcenturion\curso\java\enumerados\Turno.class
+ar\com\emanuelcenturion\curso\java\enumerados\Semana.class
+ar\com\emanuelcenturion\curso\java\repositories\jdbc\AlumnoRepository.class
+ar\com\emanuelcenturion\curso\java\repositories\interfaces\I_CursoRepository.class
+ar\com\emanuelcenturion\curso\java\test\TestConnector.class
